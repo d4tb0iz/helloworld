@@ -34,7 +34,7 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE!",
+                  "text": "Hello World!",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
