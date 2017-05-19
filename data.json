@@ -94,7 +94,7 @@
             },
             {
               "type": "label",
-              "style": {
+              "style": { 
                 "align": "right",
                 "padding": "10",
                 "color": "#000000",
